@@ -1,8 +1,7 @@
 - 👋 Hello
-- , I’m Sufyan Danish from Pakistan and I have completed my master degree(MS) in Computer science from IBMS The University of Agriculture, Peshawar, Khyber Pakhtunkhwa, Pakistan.
-- 👀 My MS research was in bioinformatic. 
-- 🌱 Now i ma currently working on Deep learning, machine learning, Computer vision, medical image processing and object detection. 
-- 💞️ I’m looking for Phd scholarship to pursue higher studies.
+-, I received my master's and MS degrees in computer science from the Department of Computer Science, University of Peshawar, and The Institute of Computer Sciences and Information Technology (ICS/IT), The Agriculture University Peshawar, Pakistan respectively. 
+- 💞️ Currently pursuing a Ph.D. degree in the Computer Vision and Pattern Recognition lab, at Sejong University, South Korea.
+- 🌱 My research interests include Computer Vision, bioinformatics, Drone, and Deep Learning.
 - 📫 How to reach me. sufyandanish.uop@gmail.com
 
 <!---
